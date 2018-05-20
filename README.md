@@ -23,7 +23,7 @@ Minibot com reconhecimento de saudações, agradecimentos e despedidas usando Te
         - Possíveis respostas:     
             - "Oi, tudo bem?", "Bom te ver de novo", "Olá, como posso ajudar?", "Oi, como está?"
     - Tag: Agradecimentos
-        - "Obrigada", "Muito obrigada", "Obrigada pela atenção", "Grata pela ajuda", "De nada", "Obrigado", "Muito obrigado",             "Obrigado pela atenção", "Grato pela ajuda", "Obrigada pela atencao", "Obrigado pela atencao","Ok", "Valeu",                   "Agradecido"
+        - "Obrigada", "Muito obrigada", "Obrigada pela atenção", "Grata pela ajuda", "De nada", "Obrigado", "Muito obrigado",             "Obrigado pela atenção", "Grato pela ajuda", "Obrigada pela atencao", "Obrigado pela atencao", "Ok", "Valeu",                   "Agradecido"
         - Possíveis respostas:
             - "Feliz por ajudar!", "Estou a disposição", "Foi um prazer.", "De nada!"
     - Tag: Despedidas
