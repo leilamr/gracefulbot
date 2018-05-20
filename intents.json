@@ -1,15 +1,15 @@
 {"intents": [
         {"tag": "saudacao",
-         "patterns": ["Oi", "Tem alguem ai?", "Ola", "Bom dia", "Boa tarde", "Boa noite", "Seja bem-vindo","Tudo bem?", "Tudo bom?", "Como voce esta?", "Como esta?", "Olá", "Como voce está?", "Como está?", "Tem alguém aí?"],
+         "patterns": ["Oi", "Tem alguem ai?", "Ola", "Bom dia", "Boa tarde", "Boa noite", "Seja bem-vindo","Tudo bem?", "Tudo bom?", "Como voce esta?", "Como esta?", "Olá", "Como você está", "Como está?", "Tem alguém aí?"],
          "responses": ["Oi, tudo bem?", "Bom te ver de novo", "Olá, como posso ajudar?", "Oi, como está?"],
          "context_set": ""
         },
         {"tag": "despedida",
-         "patterns": ["Tchau", "Ate logo", "Ate amanha", "Foi um prazer","Ate mais", "Ate breve", "Adeus","Até mais", "Até breve", "Até logo", "Até amanha"],
+         "patterns": ["Tchau", "Até logo", "Até amanha", "Foi um prazer", "Adeus","Até mais", "Até breve", "Até logo", "Até amanha"],
          "responses": ["Até logo, obrigada por conversar comigo.", "Tenha um lindo dia.", "Tchau! Volte novamente em breve.", "Tchau", "Até breve"]
         },
         {"tag": "agradecimento",
-         "patterns": ["Obrigada", "Muito obrigada", "Obrigada pela atenção", "Grata pela ajuda", "De nada", "Obrigado", "Muito obrigado", "Obrigado pela atenção", "Grato pela ajuda", "Obrigada pela atencao", "Obrigado pela atencao","Ok"],
+         "patterns": ["Obrigada", "Muito obrigada", "Obrigada pela atenção", "Grata pela ajuda", "De nada", "Obrigado", "Muito obrigado", "Obrigado pela atenção", "Grato pela ajuda", "Obrigada pela atencao", "Obrigado pela atencao","Ok", "Valeu", "Agradecido"],
          "responses": ["Feliz por ajudar!", "Estou a disposição", "Foi um prazer.", "De nada!"]
         },
         {"tag": "desconhecido",
@@ -18,3 +18,4 @@
         }
    ]
 }
+
