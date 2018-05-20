@@ -3,11 +3,10 @@ Minibot com reconhecimento de saudações, agradecimentos e despedidas usando Te
 
 # Requisitos
 - Python 3.5
-- Bibliotecas necessárias:
+- Bibliotecas importantes:
     - NLTK
     - Numpy
     - Tflearn
-    - Random
     - Telebot
     
 # Funcionamento
