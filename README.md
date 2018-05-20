@@ -32,7 +32,10 @@ Minibot com reconhecimento de saudações, agradecimentos e despedidas usando Te
             - "Até logo, obrigada por conversar comigo.", "Tenha um lindo dia.", "Tchau! Volte novamente em breve.", "Tchau", 
         "Até breve"
      - Tag: Desconhecida
-        - As palavras que não estão inseridas em uma das três tags acima, serão consideradas desta. 
+        - As palavras que não estão inseridas em uma das três tags acima, pertecerão a esta tag. 
         - Possíveis respostas:
             - "Nao fui ensinada sobre isso ainda","Eu entendo apenas sobre saudações, agradecimento e despedidas. Me desculpe.", "Me desculpe, nao entendi."
 
+# Adicionais
+Lembre-se de compilar os arquivos na seguinte ordem:
+    - Model.py, Response.py, Assistant.py
