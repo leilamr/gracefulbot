@@ -12,17 +12,17 @@ Minibot com reconhecimento de saudações, agradecimentos e despedidas usando Te
     
 # Funcionamento
 O projeto é divido em três passos:
-    1. Transformar intenções conversação em um modelo TensorFlow
-    2. Criar uma estrutura de chatbot para processar respostas
-    3. Conectar o nosso modelo ao Telegram
+    - Transformar intenções conversação em um modelo TensorFlow
+    - Criar uma estrutura de chatbot para processar respostas
+    - Conectar o nosso modelo ao Telegram
     
 # Intents.json
-O bot reconhece as seguintes expressões, que estão dividias em 4 (quatro) tags:
+- O bot reconhece as seguintes expressões, que estão dividias em 4 (quatro) tags:
     - Tag: Saudação
-        "Oi","Tem alguém aí?", "Olá", "Bom dia", "Boa tarde", "Boa noite", "Seja bem-vindo", "Tudo bem?", "Tudo bom?",
+        - "Oi","Tem alguém aí?", "Olá", "Bom dia", "Boa tarde", "Boa noite", "Seja bem-vindo", "Tudo bem?", "Tudo bom?",
         "Como você está?", "Como está?"
-         - Possíveis respostas:     
-         "Oi, tudo bem?", "Bom te ver de novo", "Olá, como posso ajudar?", "Oi, como está?"
+    - Possíveis respostas:     
+        - "Oi, tudo bem?", "Bom te ver de novo", "Olá, como posso ajudar?", "Oi, como está?"
     - Tag: Agradecimentos
         "Obrigada", "Muito obrigada", "Obrigada pela atenção", "Grata pela ajuda", "De nada", "Obrigado", "Muito obrigado",             "Obrigado pela atenção", "Grato pela ajuda", "Obrigada pela atencao", "Obrigado pela atencao","Ok", "Valeu",                   "Agradecido"
         - Possíveis respostas:
