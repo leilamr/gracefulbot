@@ -2,7 +2,8 @@ from chatbotResponse import response
 
 import telebot
 #conexao com o bot
-bot = telebot.TeleBot('610673056:AAEWkXNd6RKbzNTdkKBuS5Jm7JqB_3CtIDE')
+bot = telebot.TeleBot('tokenyourbot')
+
 
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(message):
