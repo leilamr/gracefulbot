@@ -12,7 +12,7 @@ Minibot com reconhecimento de saudações, agradecimentos e despedidas usando Te
     
 # Funcionamento
 - O projeto é divido em três passos:
-    - Transformar intenções conversação em um modelo TensorFlow
+    - Transformar intenções de conversação em um modelo TensorFlow
     - Criar uma estrutura de chatbot para processar respostas
     - Conectar o nosso modelo ao Telegram
     
