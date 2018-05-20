@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/leila/PycharmProjects/minibot-desafio/model.tflearn"
+all_model_checkpoint_paths: "/home/leila/PycharmProjects/minibot-desafio/model.tflearn"
