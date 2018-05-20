@@ -30,5 +30,9 @@ Minibot com reconhecimento de saudações, agradecimentos e despedidas usando Te
         - "Tchau", "Até logo", "Até amanha", "Foi um prazer", "Adeus", "Até mais", "Até breve"
         - Possíveis respostas:
             - "Até logo, obrigada por conversar comigo.", "Tenha um lindo dia.", "Tchau! Volte novamente em breve.", "Tchau", 
-        "Até breve",
+        "Até breve"
+     - Tag: Desconhecida
+        - As palavras que não estão inseridas em uma das três tags acima, serão consideradas desta. 
+        - Possíveis respostas:
+            - "Nao fui ensinada sobre isso ainda","Eu entendo apenas sobre saudações, agradecimento e despedidas. Me desculpe.", "Me desculpe, nao entendi."
 
