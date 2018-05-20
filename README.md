@@ -19,10 +19,9 @@ O projeto é divido em três passos:
 # Intents.json
 - O bot reconhece as seguintes expressões, que estão dividias em 4 (quatro) tags:
     - Tag: Saudação
-        - "Oi","Tem alguém aí?", "Olá", "Bom dia", "Boa tarde", "Boa noite", "Seja bem-vindo", "Tudo bem?", "Tudo bom?",
-        "Como você está?", "Como está?"
-    - Possíveis respostas:     
-        - "Oi, tudo bem?", "Bom te ver de novo", "Olá, como posso ajudar?", "Oi, como está?"
+        - "Oi","Tem alguém aí?", "Olá", "Bom dia", "Boa tarde", "Boa noite", "Seja bem-vindo", "Tudo bem?", "Tudo bom?", "Como você está?", "Como está?"
+        - Possíveis respostas:     
+            - "Oi, tudo bem?", "Bom te ver de novo", "Olá, como posso ajudar?", "Oi, como está?"
     - Tag: Agradecimentos
         "Obrigada", "Muito obrigada", "Obrigada pela atenção", "Grata pela ajuda", "De nada", "Obrigado", "Muito obrigado",             "Obrigado pela atenção", "Grato pela ajuda", "Obrigada pela atencao", "Obrigado pela atencao","Ok", "Valeu",                   "Agradecido"
         - Possíveis respostas:
