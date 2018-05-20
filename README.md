@@ -37,5 +37,4 @@ Minibot com reconhecimento de saudações, agradecimentos e despedidas usando Te
             - "Nao fui ensinada sobre isso ainda","Eu entendo apenas sobre saudações, agradecimento e despedidas. Me desculpe.", "Me desculpe, nao entendi."
 
 # Adicionais
-Lembre-se de compilar os arquivos na seguinte ordem:
-    - Model.py, Response.py, Assistant.py
+Lembre-se de compilar os arquivos na seguinte ordem: Model.py, Response.py, Assistant.py
